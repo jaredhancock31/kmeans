@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 # Author: Jared Hancock
-# CS 4315 Spring 2015
+
 
 import numpy as np
 import random
